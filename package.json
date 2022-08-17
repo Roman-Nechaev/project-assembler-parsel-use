@@ -1,0 +1,28 @@
+{
+  "name": "project-assembler-parsel-use",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roman-Nechaev/project-assembler-parsel-use.git"
+  },
+  "keywords": [],
+  "author": "Roman_N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roman-Nechaev/project-assembler-parsel-use/issues"
+  },
+  "homepage": "https://github.com/Roman-Nechaev/project-assembler-parsel-use#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "lodash.throttle": "^4.1.1"
+  }
+}
